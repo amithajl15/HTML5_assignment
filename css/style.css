@@ -1,0 +1,36 @@
+/*body{background-color: #E5E8E8;  }*/
+  /*body{background-image: url("../img/bg3.png");}*/
+  body{margin: 0px 0px;}
+.container_12{background-color:#F7F9F9;}
+header{position: fixed;background-color:#34495E;margin-right: 0;width:960px;}
+.heading{float: left; background-color: #34495E;margin-left: 0;margin-top: 18px;margin-bottom: 0;padding-left: 15px;}
+.img_main{width:960px;margin:0px 0px;}
+h1{font-size: 50px;text-align: left;margin-top: 30px;font-family: 'Tangerine', cursive;color:#85C1E9;font-style: italic;text-shadow: 5px 10px 10px #5A7692;}
+.menu{float: right;background-color: #34495E;margin-right: 0;margin-top: 50px;text-decoration: none;padding-bottom:5px;}
+.menu li{display: inline; margin-left: 0;margin-right: 30px;font-size: 15px;font-family: 'Lobster', cursive;color:#5DADE2;}
+.main{margin-top:95px;background-color: #F8F9F9; margin-bottom: 20px;margin-right: 0;}
+.para{margin-bottom: 20px;font-family: 'Titillium Web', sans-serif;text-align: justify;}
+.main img{margin-bottom: 20px;margin-right: 0;}
+.det img{width:300px;height:200px;margin-top: 50px;margin-bottom: 20px;}
+.ico i{width: 50px;height: 50px;}
+footer section{background-color: #ECF0F1;}
+.ico{float: right;}
+.fotr{width: 960px;margin-right: 0;margin-left:0;background-color: #ECF0F1;padding-top: 15px;}
+
+.footerr{margin-top: 10px; margin-bottom: 10px; margin-left: 5;margin-right: 0;padding-top: 10px;padding-bottom: 10px;}
+.footerr i{float: right;padding-left:15px;}
+.footerr li{display: inline; padding-right: 15px;}
+.content{background-color: #D7DBDD ;}
+h2{font-size: 25px;text-align: center;margin-top: 30px;font-family:Cursive;color:#3498DB}
+li a:hover { background-color: #CCD1D1;color:#212F3C;font-size:15px;padding-top: 5px;padding-bottom: 5px;padding-left: 10px;padding-right: 10px;}
+i{color:green;}
+i:hover{color:blue;}
+.menu a{text-decoration: none;color:white;}
+.pack img{width:700px;height:350px;margin-left: 0;}
+.pack p{float:left;width: 700px;}
+.one_pack{margin-left: 0;margin-right: 0;margin-top: 65px;background-color: #D6DBDF;padding-top: 30px;}
+aside {float: right;background-color: #839192;padding-top: 10px;padding-bottom: 10px;text-align: center;}
+.location{padding-right: 0px;margin-right: 0px;}
+aside h3{text-align: left;font-style:bold;font-family: arial;font-size: 15;padding-bottom: 5px;}
+aside a{text-decoration: none;}
+.content1{background-color:#AEB6BF  ;margin-right: 0px;padding-right: 0px;border: 0px;}
